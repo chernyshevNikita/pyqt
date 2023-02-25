@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file 'C:\Users\79223\PycharmProjects\pyqt\calculator\calk.ui'
+# Form implementation generated from reading ui file 'calc.ui'
 #
 # Created by: PyQt5 UI code generator 5.15.4
 #
